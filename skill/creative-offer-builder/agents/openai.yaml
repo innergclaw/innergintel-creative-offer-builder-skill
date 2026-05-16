@@ -1,0 +1,4 @@
+interface:
+  display_name: "Creative Offer Builder"
+  short_description: "Package design services into clear, sellable offers."
+  default_prompt: "Build a clear creative service offer from this lead, audit, or service idea."
