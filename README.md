@@ -14,6 +14,30 @@ This is Skill 04 in the InnerG Intel creative sales toolkit. It follows Creative
 - Upsell and maintenance paths
 - CSV output for offer tracking
 
+## Use In Codex
+
+Paste this into Codex:
+
+```text
+Use Creative Offer Builder.
+
+Turn this lead or audit into a sellable offer.
+Create starter, core, and premium tiers with deliverables, timeline, price range, client inputs needed, CTA, and upsell path.
+
+Lead/audit notes:
+[paste notes here]
+```
+
+More examples:
+
+```text
+Use Creative Offer Builder on these restaurant leads. Turn each one into a starter, core, and premium offer.
+```
+
+```text
+Use Creative Offer Builder to create a $200 starter website offer, a $500 core offer, and a monthly maintenance upsell.
+```
+
 ## Install
 
 ```bash
